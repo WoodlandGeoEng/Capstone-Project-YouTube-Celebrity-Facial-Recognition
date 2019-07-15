@@ -8,9 +8,9 @@ This project contains 3 notebooks:
 
 **Notebook 1: YouTubeFacialRecognition.ipynb**  
     - Contains all the mothods used on the subset data (youtube_faces_with_keypoints_small.csv) provided on Kaggle)
-**Notebook 2: YouTubeFacialRecognitionBig.ipynb** 
+<br>**Notebook 2: YouTubeFacialRecognitionBig.ipynb** 
     - Contains clustering and classification methods on the full dataset (youtube_faces_with_keypoints_large.csv)
-**Notebook 3: YouTubeFacialRecognitionBig-ANNs.ipynb** 
+<br>**Notebook 3: YouTubeFacialRecognitionBig-ANNs.ipynb** 
     - Contains roughly optimized neural networks on both the 2D and 3D landmarks
 
 Supporting documents: 
