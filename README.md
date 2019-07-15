@@ -4,7 +4,7 @@ Perform Facial Recognition on YouTube Celebrities
 This dataset is a processed version of the YouTube Faces Dataset, that contained short videos of celebrities that are publicly available and downloaded from YouTube. There are multiple videos of each celebrity (up to 6 videos per celebrity). The original videos were cropped around the faces and only 240 consecutive frames were kept for each original video. 
 The dataset is available here: https://www.kaggle.com/selfishgene/youtube-faces-with-facial-keypoints
 
-This is the **2nd of 3 Notebooks** containing a comparison of possible models built to perform facial recognition of the facial landmarks provided in teh dataset.
+This project contains 3 notebooks:
 
 **Notebook 1: YouTubeFacialRecognition.ipynb**  
     - Contains all the mothods used on the subset data (youtube_faces_with_keypoints_small.csv) provided on Kaggle)
